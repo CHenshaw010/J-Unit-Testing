@@ -2,10 +2,12 @@
 
 ### Quick Navigation:
 <details>
-  <summary>Appointment</summary>
-  [Appointment Code](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
-  [Appointment JUnit](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
+<summary>Appointment</summary>
+[Appointment Code](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+[Appointment JUnit](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
 </details>
+
+
 ### Associated JUnit Tests:
 <details>
   <summary>SPOILERS</summary>
