@@ -5,16 +5,20 @@
 <summary>Appointment</summary>
   
 [Appointment Code](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
+
 [Appointment JUnit](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
+
+[AppointmentService](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentService.java)
+
+[AppointmentService JUnit](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentServiceTest.java)
 </details>
 
-
-### Associated JUnit Tests:
 <details>
-  <summary>SPOILERS</summary>
+<summary>Appointmen</summary>
+  
+[Appointment Code](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/Appointment.java)
 
-  ![Game_Map](https://github.com/CHenshaw010/Text-Based-Game/assets/103648617/574be0f8-9944-471e-937b-f11d0305f721)
-
+[Appointment JUnit](https://github.com/CHenshaw010/J-Unit-Testing/blob/main/AppointmentService/AppointmentTest.java)
 </details>
 
 ### Personal Notes:
